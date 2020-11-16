@@ -1,7 +1,7 @@
 # Requirements
 ---
 
-**1. Discord.js**
+**1. [Discord.js](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------)**
 ```bash 
 $ npm install discord.js
 ```
