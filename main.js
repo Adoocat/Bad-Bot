@@ -4,24 +4,6 @@ const fs = require('fs');
 
 const client = new Discord.Client();
 
-const eak = ["https://www.youtube.com/watch?v=rPgTYHNAYOA","https://www.youtube.com/watch?v=25uMO2v6hPw","https://www.youtube.com/watch?v=zOJSzZgEECo"]
-
-const otuzBir =["Emir bunu beğendi", "Sjsjsjsjsjsj"]
-
-const kisiler = ["Emir'e","Emre'ye","Tunç'a","Berke'ye","Barkın'a","Ege'ye","Kıvanç'a","Demirkan'a","Efe'ye"]
-
-const isimler = ["Demirkan","Emre","Tunç","Berke","Yağmur","Emir","Barkın","Ege","Efe"]
-
-const yaziTura = ["Yazı","Tura"];
-
-const sakalar =["Bir espri patlatayım mı ? BUM sjsjs","Bi taksi çevirdim, hala dönüyo sjsjsjs","https://www.youtube.com/watch?v=CKK4sZ1ZTOs"]
-
-const küfürler = ["Senin ben amk orospu çocuğu seni. pu babanın kemiklerini sikeyim orosğu çocuğu!!!","Ulan alagavatlı pezevenk senin çocuklarını sikeyim!!!","Orrrri bile seni siker amk pezevengi piç seni!!!","Senin gelmiş geçmiş bütün atalarını sikeyim!","Allahsız pezevenk!!"]
-
-const objeler = ["Şu direk","Bu ağacın dalı"," O binanın paratoneri","Bu ağaç","Benim kalemimin ucu","Emrenin kolu","Berkenin kolu","Tuncun küçük s**i","Emrenin kafası","Kıvancın eli","Efenin kafası"]
-
-const inekler = ["Emir Abim","Tunç The Third Impostor","Kivantara","Ori The Mori","Yamur"]
-
 const prefix = '/';
 
 client.once('ready', () => {
